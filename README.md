@@ -1,0 +1,2 @@
+# IceCreamParlourManagement
+Inventory Management System
